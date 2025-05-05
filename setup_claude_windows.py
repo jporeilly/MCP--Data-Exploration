@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """Setup script for MCP server data science environment on Windows."""
 
 import json
